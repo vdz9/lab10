@@ -16,10 +16,10 @@ cd ${GITHUB_USERNAME}/workspace
 pushd .
 source scripts/activate
 
-git clone https://github.com/${GITHUB_USERNAME}/lab08.git projects/lab08
-cd projects/lab09
+git clone https://github.com/${GITHUB_USERNAME}/lab09.git projects/lab10
+cd projects/lab10
 git remote remove origin
-git remote add origin https://github.com/${GITHUB_USERNAME}/lab09.git
+git remote add origin https://github.com/${GITHUB_USERNAME}/lab10.git
 ```
 
 Результат: Копирование репозитория из предыдущей лабораторной работы в текущую и последующая его привязка к новому репозиторию
