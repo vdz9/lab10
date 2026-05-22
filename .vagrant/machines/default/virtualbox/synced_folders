@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/vdz/vdz9/workspace/projects/lab10","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/vdz/vdz9/workspace/projects/lab10/shared","disabled":false,"__vagrantfile":true}}}
